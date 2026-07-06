@@ -147,11 +147,11 @@ I’ve gained hands‑on experience with **AWS** (S3, EC2, SNS, EventBridge), **
 ### 🧠 Cognitive Misinformation Detection
 - **NLP + ML** pipeline using **TF‑IDF** and **Logistic Regression**  
 - Flask REST API backend, deployed on **Replit**  
-- [Live Demo]([https://cognitive-misinformation-detection--vs9850416.replit.app/]) | [GitHub Repo](https://github.com/VaishnaviSri/misinformation-detection)
+- [Live Demo]([https://cognitive-misinformation-detection--vs9850416.replit.app/]) | [GitHub Repo](https://github.com/VaishnaviiSri/cognitive-misinformation-detection)
 
 ### 🎮 Space Shooter Game
 - Built with Python **Arcade** module – dynamic enemies, power‑ups, scoring  
-- [Source Code](https://lnkd.in/gHqRsW7r)
+- [Source Code](https://github.com/VaishnaviiSri/Space-Shooter-Game)
 
 ### 🐍 Classic Snake Game
 - Python **Turtle** module – smooth controls, collision detection, score tracking  
