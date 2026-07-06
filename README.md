@@ -29,9 +29,9 @@ I’ve gained hands‑on experience with **AWS** (S3, EC2, SNS, EventBridge), **
   <a href="https://linkedin.com/in/vaishnavi-s-178951299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> 
 </p>
 
 <br>
