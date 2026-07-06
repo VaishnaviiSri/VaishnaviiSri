@@ -221,12 +221,12 @@ I’ve gained hands‑on experience with **AWS** (S3, EC2, SNS, EventBridge), **
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VaishnaviSri&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
-  <a href="https://github.com/VaishnaviSri?tab=followers">
-    <img src="https://img.shields.io/github/followers/VaishnaviSri?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/VaishnaviiSri?tab=followers">
+    <img src="https://img.shields.io/github/followers/VaishnaviiSri?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/VaishnaviSri">
-    <img src="https://img.shields.io/github/stars/VaishnaviSri?label=Stars&style=social" alt="GitHub Stars" />
+  <a href="https://github.com/VaishnaviiSri">
+    <img src="https://img.shields.io/github/stars/VaishnaviiSri?label=Stars&style=social" alt="GitHub Stars" />
   </a>
 </p>
 
